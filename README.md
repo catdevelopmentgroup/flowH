@@ -3,7 +3,7 @@
 
 <h2>What is flowH</h2>
 flowH is a online text editor for Web Development(HTML, CSS and JavaScript) that makes being a Web Developer easier.<br>
-FlowH allows your clients to sugguest changes, download the code while veiwing it and includes more developer tools including notes and more. flowH is still in <b>early development</b> and is expected to have its final version by early december 2019.
+FlowH allows your clients to sugguest changes, download the code while veiwing it and includes more developer tools including notes and more. flowH is still in <b>early development</b> and is expected to have its <b>final version by early december 2019</b> and have <b>open source</b> by <b>late december</b>
 
 <h2>ScriptH</h2>
 
